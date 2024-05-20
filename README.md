@@ -27,18 +27,18 @@ Code Overview
 Importing Required Modules
 python
 Copy code
-from tkinter import *
-from tkinter import messagebox
-from csv import *
-import random
-Bill_App Class
+from tkinter import * ,
+from tkinter import messagebox ,
+from csv import * ,
+import random ,
+Bill_App Class ,
 The main class Bill_App contains the initialization of the GUI components and the methods to handle various functionalities.
 
 The saved CSV file will have the following columns:
-Customer name
-Customer Phone number
-Bill number
-Mains amount
-Drinks amount
-Sides amount
-Total amount
+Customer name,
+Customer Phone number,
+Bill number,
+Mains amount,
+Drinks amount,
+Sides amount,
+Total amount.
